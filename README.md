@@ -7,7 +7,7 @@ The core idea is to create an intelligent system that can decide which tool to u
 3.  Perform Web Search: If information isn't found internally, use Tavily Search to find answers on the web.
 4.  Generate Reports: Create comprehensive reports on specified topics by breaking them down into sub-topics, gathering information, and synthesizing it.
 
-5.  ## Features
+ # Features
 
 PDF Ingestion: Easily load and process PDF documents to create a searchable knowledge base.
 Vector Database (Milvus): Stores document embeddings for efficient semantic search and retrieval.
